@@ -10,3 +10,9 @@ print(age_in_ten_y)
 age_in_ten_y2=(age2+10) 
 print(age_in_ten_y2)
 
+#multiplicacion
+for f in range(1,11): 
+  print(f'7 x {f} = {7 * f}')
+  #f=$12000/valor hora_clase, range(ctde/horas))
+for f in range(1,16): 
+  print(f'4000 x {f} = {12000 * f}')
