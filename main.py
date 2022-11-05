@@ -1,3 +1,4 @@
+#variables
 name="Andres"
 age=8
 year_of_birth=2015
