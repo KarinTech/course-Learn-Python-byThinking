@@ -16,3 +16,35 @@ for f in range(1,11):
   #f=$12000/valor hora_clase, range(ctde/horas))
 for f in range(1,16): 
   print(f'4000 x {f} = {12000 * f}')
+  
+  #juego dados
+  import random 
+resultado = random.randint(1,6) 
+input(prompt:="Presiona cualquier tecla para lanzar nuevamente.")
+import random 
+resultado = random.randint(1,6) 
+print("El dado giro y obtuvo: ", resultado)
+input(prompt:="Presiona cualquier tecla para lanzar nuevamente.")
+import random 
+resultado = random.randint(1,6) 
+print("El dado giro y obtuvo: ", resultado)
+input(prompt:="Presiona cualquier tecla para lanzar nuevamente.")
+import random 
+resultado = random.randint(1,6) 
+print("El dado giro y obtuvo: ", resultado)
+input(prompt:="Presiona cualquier tecla para lanzar nuevamente.")
+print("El dado giro y obtuvo: ", resultado)
+import random 
+resultado = random.randint(1,6) 
+input(prompt:="Presiona cualquier tecla para lanzar nuevamente.")
+print("El dado giro y obtuvo: ", resultado)
+input(prompt:="Presiona cualquier tecla para lanzar nuevamente.")
+import random 
+resultado = random.randint(1,6) 
+print("El dado giro y obtuvo: ", resultado)
+input(prompt:="Presiona cualquier tecla para lanzar nuevamente.")
+print("El dado giro y obtuvo: ", resultado)
+import random 
+resultado = random.randint(1,6) 
+input(prompt:="Presiona cualquier tecla para lanzar nuevamente.")
+print("El dado giro y obtuvo: ", resultado)
